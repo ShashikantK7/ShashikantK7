@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/shashikantjs11" target="blank"><img src="https://img.shields.io/twitter/follow/shashikantjs11?logo=twitter&style=for-the-badge" alt="shashikantjs11" /></a> </p>
 
-- 🌱 I’m currently learning **webdev, ML and DS basic**
+- 🌱 I’m currently learning **ML and DS **
 
 - 👯 I’m looking to collaborate in **hackthons with people around the world**
 
